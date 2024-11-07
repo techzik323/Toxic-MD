@@ -8,9 +8,9 @@ global.ytname = "YT: Resonex"
 global.socialm = "GitHub: Joker-Reincarnated"
 global.location = "Nigeria, Lagos, Ikeja"
 
-global.ownernumber = '2349168929037'  //creator number
-global.ownername = '🃏Joker🃏' //owner name
-global.botname = '☣️ Toxic MD' //name of the bot
+global.ownernumber = '256751617788'  //creator number
+global.ownername = '🃏ZIK🃏' //owner name
+global.botname = '☣️ ZIK MD' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
